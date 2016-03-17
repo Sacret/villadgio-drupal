@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/www/harchi/sites/all/libraries/ckeditor/';
